@@ -1,0 +1,27 @@
+.nav {
+    padding: 20px 0;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.container ul {
+    display: flex;
+}
+
+.container ul li {
+    margin-left: 30px;
+}
+
+.container ul li a {
+    color: #777;
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: 300;
+
+}
