@@ -4,7 +4,7 @@ import styles from '../styles/product.module.css'
 
 export default function Product(props) {
 
-    
+
     return (
         <div className={styles.product}>
             <div>
